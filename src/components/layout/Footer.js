@@ -5,7 +5,10 @@ const Footer = () => (
     <div className="flex -mx-3">
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">Contact Us</h2>
-        <p className="mt-5">0700 000 000</p>
+        <p className="mt-5">Grace Karanja: 0740638680 gracekaranja2001@gmail.com</p>
+        <p className="mt-5">Steve Kibuika: 0740459940 kibuikacodes@gmail.com</p>
+        <p className="mt-5">Allister Mugaisi: 0790516067 allistermugaisi@gmail.com</p>
+
       </div>
       <div>
 
